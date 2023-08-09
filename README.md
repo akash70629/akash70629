@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/18754082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18754082" height="30" width="40" /></a>
 <a href="https://fb.com/100007409201307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100007409201307" height="30" width="40" /></a>
 <a href="https://instagram.com/amibekar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amibekar1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@made_with_backpain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@made_with_backpain" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Made_with_Backpain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@made_with_backpain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
