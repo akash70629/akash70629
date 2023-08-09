@@ -1,9 +1,10 @@
-<img  width= "400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Coding gif">
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Coding gif">
 
 <h1 align="center">Hi 👋, I'm Akas Das</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
+<br>
 
-<img  width= "400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding gif">
+<img align="right" width= "400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding gif">
 
 - 🔭 I’m currently working on [CoconutGram](https://github.com/akash70629/Coconutgram)
 
@@ -35,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash70629&show_icons=true&locale=en&layout=compact" alt="akash70629" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash70629&show_icons=true&locale=en" alt="akash70629" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akash70629&show_icons=true&locale=en" alt="akash70629" /></p>
