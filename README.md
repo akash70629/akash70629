@@ -1,6 +1,6 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Coding gif">
 
-<h1 align="center">Hi 👋, I'm Akash Das 🌳 </h1>
+<h1 align="center">Hi 👋, I'm Akash 🌳 </h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <br>
 
@@ -37,3 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash70629&show_icons=true&locale=en&layout=compact" alt="akash70629" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akash70629&show_icons=true&locale=en" alt="akash70629" /></p>
+
+[![An image of @akash70629's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akash70629)](https://holopin.io/@akash70629)
