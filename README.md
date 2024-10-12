@@ -1,9 +1,23 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Coding gif">
 
-<h1 align="center">Hi 👋, I'm Akash 🌳 </h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
-<br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Akash🌳....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
+
+<h3 align="center">A passionate FullStack Developer from India 🌳</h3>
+
+![gitartwork](gitartwork.svg)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/akash70629/count.svg" />
+</p>
+<br>
 <img align="right" width= "400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding gif">
 
 - 🔭 I’m currently working on [CoconutGram](https://github.com/akash70629/Coconutgram)
