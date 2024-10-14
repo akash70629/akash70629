@@ -58,11 +58,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=akash70629&show_icons=true&locale=en" alt="akash70629" />
 </div>
 
+
+
+
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash70629&show_icons=true&locale=en&layout=compact" alt="akash70629" />
 </div>
-
-
-
 
 [![An image of @akash70629's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akash70629)](https://holopin.io/@akash70629)
