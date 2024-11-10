@@ -53,18 +53,18 @@
 </p>
 
 <h3 align="center">GitHub Statistics</h3>
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash70629&" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=akash70629&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
-<div align="center"> 
+<div align="center" style="margin-top: 20px;"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash70629&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
 ## GSSOC (2024) Extended Badges 🥇
 ### 💥 Ranked 31st among 40,000+ contributors worldwide 💥
-<div align="center" style="display:flex; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
@@ -82,9 +82,10 @@
 </div>
 
 ## Hacktoberfest 2024 Badges 🥇
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <a href="https://holopin.io/@akash70629">
     <img src="https://holopin.me/akash70629" alt="Holopin badges" />
   </a>
 </div>
+
 
