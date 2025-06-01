@@ -24,13 +24,8 @@
 
 - 🌱 I’m currently learning **React,Figma**
 
-- 🤝 I’m looking for help with [CoconutGram](https://github.com/akash70629/Coconutgram)
-
-- 💬 Ask me about **Photography 😁**
-
 - 📫 How to reach me **akash70629@gmail.com**
 
-- ⚡ Fun fact **I thought I was funny .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
