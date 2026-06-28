@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Akash+Das ;Nice+to+meet+you!&center=true&size=30" alt="Akash Das Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Akash+Das;Nice+to+meet+you!&center=true&size=30" alt="Akash Das Typing Animation">
   </a>
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" alt="Akash Das Portfolio Line" />
